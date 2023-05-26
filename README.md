@@ -10,12 +10,3 @@ Features
 - Secure Payment: Customers can securely complete their booking by making payment through integrated payment gateways, ensuring the safety of their personal and financial information.
 - Booking Management: The system provides an intuitive interface for cinema administrators to manage bookings, view sales reports, and generate booking tickets.
 
-
-**Installation**
-Clone this repository to your local machine.
-Ensure you have the latest version of Node.js installed.
-Open a terminal and navigate to the project directory.
-Run npm install to install the required dependencies.
-Configure the database connection in the config.js file.
-Run npm start to start the application.
-Open your web browser and visit http://localhost:3000 to access the Cinema Booking System.
