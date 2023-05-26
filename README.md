@@ -1,4 +1,4 @@
-Cinema Booking System
+#Cinema Booking System#
 The Cinema Booking System is a web-based application that allows users to easily book movie tickets online. This system provides a user-friendly interface where customers can browse available movies, view showtimes, select seats, and securely complete their booking.
 
 Features
